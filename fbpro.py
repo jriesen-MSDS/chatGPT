@@ -1,3 +1,6 @@
+#this is from a medium article that I found intersting and thought others would like it too :
+#https://medium.com/@gabrielmasantos/how-i-build-a-stock-price-forecasting-model-using-chatgpt-e2ce5838f25f 
+
 import yfinance as yf
 import matplotlib.pyplot as plt
 from prophet import Prophet
